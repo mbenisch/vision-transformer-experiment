@@ -1,0 +1,5 @@
+# Bazel output
+bazel-*
+
+# Python env file for IDE
+.env
