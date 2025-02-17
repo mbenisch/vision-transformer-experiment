@@ -14,5 +14,6 @@ py_binary(
         requirement("torch"),
         requirement("torchvision"),
         requirement("numpy"),
+        requirement("scipy"),
     ],
 )
